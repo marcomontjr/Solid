@@ -1,0 +1,7 @@
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.exe.config
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.csprojAssemblyReference.cache
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.csproj.CoreCompileInputs.cache
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.pdb
